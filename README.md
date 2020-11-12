@@ -5,11 +5,9 @@ Home: https://github.com/MarketSquare/robotframework-requests
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/robotframework-requests-feedstock/blob/master/LICENSE.txt)
 
 Summary: RequestsLibrary is a Robot Framework test library that uses the Requests HTTP client.
-
-
 
 Current build status
 ====================
