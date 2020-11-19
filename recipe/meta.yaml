@@ -18,9 +18,9 @@ build:
 requirements:
   host:
     - pip
-    - python
+    - python >=2.7
   run:
-    - python
+    - python >=2.7
     - requests
     - requests_ntlm
     - robotframework
@@ -33,7 +33,6 @@ about:
   home: https://github.com/MarketSquare/robotframework-requests
   license: MIT
   license_family: MIT
-  # license file not included in source distribution. See https://github.com/MarketSquare/robotframework-requests/pull/293
   license_file: LICENSE.md
   summary: RequestsLibrary is a Robot Framework test library that uses the Requests HTTP client.
 
